@@ -17,19 +17,19 @@ Here are some of the key data analysis and business intelligence projects I have
 
 ### 1. 🌐 Global Commercial Sales & Revenue Analysis Dashboard
 * **Description:** A multi-page executive business intelligence solution tracking global sales performance, product-customer-channel breakdown, and revenue leakage risks.
-* **Tools Used:** Microsoft Excel, Power Query, Advanced DAX, Relational Data Modeling, Interactive Slicers[cite: 1, 2, 3].
+* **Tools Used:** Microsoft Excel, Power Query, Advanced DAX, Relational Data Modeling, Interactive Slicers.
 * **Key Features & Insights:**
-  * **Executive Sales Overview:** Tracked a total revenue of $585,299 across 3,000 orders with a 71% completed order rate, highlighting monthly growth trends and regional revenue distributions (Asia Pacific leading at $177K)[cite: 2].
-  * **Revenue Leakage & Risk Analysis:** Analyzed risk drivers ($165,602 in total revenue at risk, $88,373 in refunds, and a 29% failed order rate), breaking down performance by international shipping ports and regions[cite: 3].
-  * **Product, Customer & Channel Analysis:** Identified top-performing revenue drivers (such as the 4K Action Camera generating $124,142) and evaluated sales channel contributions across Direct B2B, Retail Partners, Marketplaces, and Online stores[cite: 1].
+  * **Executive Sales Overview:** Tracked a total revenue of $585,299 across 3,000 orders with a 71% completed order rate, highlighting monthly growth trends and regional revenue distributions (Asia Pacific leading at $177K).
+  * **Revenue Leakage & Risk Analysis:** Analyzed risk drivers ($165,602 in total revenue at risk, $88,373 in refunds, and a 29% failed order rate), breaking down performance by international shipping ports and regions.
+  * **Product, Customer & Channel Analysis:** Identified top-performing revenue drivers (such as the 4K Action Camera generating $124,142) and evaluated sales channel contributions across Direct B2B, Retail Partners, Marketplaces, and Online stores.
 
 ### 2. 🥤 USA Coca-Cola Retailer Sales Dashboard
-* **Description:** A comprehensive commercial sales dashboard analyzing multi-year retail performance, brand distribution, and operating margins across American regions[cite: 4].
-* **Tools Used:** Microsoft Excel, Power Query, DAX Calculated Measures, Pivot Tables & Charts[cite: 4].
+* **Description:** A comprehensive commercial sales dashboard analyzing multi-year retail performance, brand distribution, and operating margins across American regions.
+* **Tools Used:** Microsoft Excel, Power Query, DAX Calculated Measures, Pivot Tables & Charts.
 * **Key Features & Insights:**
-  * **Sales & Profitability Overview:** Monitored total revenue ($12.01M), units sold (24.78M), and total operating profit ($4.72M) for 2022 and 2023[cite: 4].
-  * **Brand & Retailer Variance:** Tracked year-over-year growth across key product lines (Coca-Cola, Dasani Water, Diet Coke, Fanta) and major retail partners (Amazon, BevCo, Target, Walmart)[cite: 4].
-  * **Margin Trends:** Visualized the correlation between total sales volume and operating margins across quarterly timeframes[cite: 4].
+  * **Sales & Profitability Overview:** Monitored total revenue ($12.01M), units sold (24.78M), and total operating profit ($4.72M) for 2022 and 2023.
+  * **Brand & Retailer Variance:** Tracked year-over-year growth across key product lines (Coca-Cola, Dasani Water, Diet Coke, Fanta) and major retail partners (Amazon, BevCo, Target, Walmart).
+  * **Margin Trends:** Visualized the correlation between total sales volume and operating margins across quarterly timeframes.
 ### 3. 📞 Call Center Performance Dashboard
 * **Description:** An interactive analytics solution designed to evaluate customer service efficiency, agent response times, and customer satisfaction metrics.
 * **Tools Used:** Power BI, Power Query, DAX, Advanced Data Modeling
