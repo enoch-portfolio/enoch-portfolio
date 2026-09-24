@@ -1,4 +1,4 @@
-# Hi there, I'm Enoch Micah 👋
+# Hi there, I'm Enoch!
 
 ### Data Analyst | Data Scientist 
 
