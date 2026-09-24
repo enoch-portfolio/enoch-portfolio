@@ -40,10 +40,11 @@ Here are some of the key data analysis and business intelligence projects I have
 * **Tools Used:** Excel (Power Pivot, DAX), Data Cleaning & Exploratory Data Analysis
 * **Key Insights:** Uncovered primary demographic and transactional triggers contributing to account closures, enabling targeted retention strategies.
 
-### 5. 🛒 Northwind Commercial Sales Dashboard  (https://github.com/enoch-portfolio/Northwind-Commercial-Dashboard)
+### 5. 🛒 Northwind Commercial Sales Dashboard 
 * **Description:** An end-to-end commercial business intelligence dashboard tracking global sales performance, customer ordering patterns, and product profitability.
 * **Tools Used:** Power BI, Relational Database Modeling, Advanced DAX Measures
 * **Key Insights:** Identified high-margin product categories and top regional revenue streams to guide executive decision-making.
+   Northwind Commercial Sales Dashboard  (https://github.com/enoch-portfolio/Northwind-Commercial-Dashboard)
 
 ## 📬 Connect With Me
 
