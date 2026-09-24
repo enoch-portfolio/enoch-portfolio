@@ -44,7 +44,7 @@ Here are some of the key data analysis and business intelligence projects I have
 * **Description:** An end-to-end commercial business intelligence dashboard tracking global sales performance, customer ordering patterns, and product profitability.
 * **Tools Used:** Power BI, Relational Database Modeling, Advanced DAX Measures
 * **Key Insights:** Identified high-margin product categories and top regional revenue streams to guide executive decision-making.
-   Northwind Commercial Sales Dashboard  (https://github.com/enoch-portfolio/Northwind-Commercial-Dashboard)
+* Northwind Commercial Sales Dashboard  (https://github.com/enoch-portfolio/Northwind-Commercial-Dashboard)
 
 ## 📬 Connect With Me
 
