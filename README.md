@@ -2,7 +2,7 @@
 
 ### Data Analyst | Data Scientist 
 
-Passionate and detail-oriented data professional with a strong engineering and mathematical background. I specialize in transforming raw, complex data into actionable business insights through robust statistical analysis, interactive dashboards, and scalable data models.
+Passionate and detail-oriented Data Analyst and Data Scientist. I specialize in transforming raw, complex data into actionable business insights through robust statistical analysis, interactive dashboards, and scalable data models.
 
 ## 🛠️ Technical Stack & Tools
 
