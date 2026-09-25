@@ -39,6 +39,7 @@ Here are some of the key data analysis and business intelligence projects I have
 * **Description:** A predictive and descriptive analytics project focused on identifying customer attrition risks in the banking sector.
 * **Tools Used:** Excel (Power Pivot, DAX), Data Cleaning & Exploratory Data Analysis
 * **Key Insights:** Uncovered primary demographic and transactional triggers contributing to account closures, enabling targeted retention strategies.
+* Bank Churn Analytics Dashboard (https://github.com/enoch-portfolio/Decoding-Bank-Customer-Churn-Executive-Report)
 
 ### 5. 🛒 Northwind Commercial Sales Dashboard 
 * **Description:** An end-to-end commercial business intelligence dashboard tracking global sales performance, customer ordering patterns, and product profitability.
