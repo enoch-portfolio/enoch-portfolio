@@ -30,6 +30,8 @@ Here are some of the key data analysis and business intelligence projects I have
   * **Sales & Profitability Overview:** Monitored total revenue ($12.01M), units sold (24.78M), and total operating profit ($4.72M) for 2022 and 2023.
   * **Brand & Retailer Variance:** Tracked year-over-year growth across key product lines (Coca-Cola, Dasani Water, Diet Coke, Fanta) and major retail partners (Amazon, BevCo, Target, Walmart).
   * **Margin Trends:** Visualized the correlation between total sales volume and operating margins across quarterly timeframes.
+  * USA Coca-Cola Retailer Sales Dashboard (https://github.com/enoch-portfolio/How-Major-Retail-Channels-and-Product-Brands-Drive-Coca-Cola-s-Sales-Growth-Across-     the-US)
+ 
 ### 3. 📞 Call Center Performance Dashboard
 * **Description:** An interactive analytics solution designed to evaluate customer service efficiency, agent response times, and customer satisfaction metrics.
 * **Tools Used:** Power BI, Power Query, DAX, Advanced Data Modeling
