@@ -34,6 +34,7 @@ Here are some of the key data analysis and business intelligence projects I have
 * **Description:** An interactive analytics solution designed to evaluate customer service efficiency, agent response times, and customer satisfaction metrics.
 * **Tools Used:** Power BI, Power Query, DAX, Advanced Data Modeling
 * **Key Insights:** Highlighted peak call volume hours and tracked individual agent resolution rates to optimize staffing and reduce customer wait times.
+* Call Center Performance Dashboard (https://github.com/enoch-portfolio/Turning-33-000-Call-Center-Interactions-into-Actionable-Strategy)
 
 ### 4. 📉 Bank Churn Analytics Dashboard
 * **Description:** A predictive and descriptive analytics project focused on identifying customer attrition risks in the banking sector.
