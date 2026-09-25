@@ -22,6 +22,7 @@ Here are some of the key data analysis and business intelligence projects I have
   * **Executive Sales Overview:** Tracked a total revenue of $585,299 across 3,000 orders with a 71% completed order rate, highlighting monthly growth trends and regional revenue distributions (Asia Pacific leading at $177K).
   * **Revenue Leakage & Risk Analysis:** Analyzed risk drivers ($165,602 in total revenue at risk, $88,373 in refunds, and a 29% failed order rate), breaking down performance by international shipping ports and regions.
   * **Product, Customer & Channel Analysis:** Identified top-performing revenue drivers (such as the 4K Action Camera generating $124,142) and evaluated sales channel contributions across Direct B2B, Retail Partners, Marketplaces, and Online stores.
+  * Global Commercial Sales & Revenue Analysis Dashboard (https://github.com/enoch-portfolio/ecommerce-refund-revenue-leakage-analysis)
 
 ### 2. 🥤 USA Coca-Cola Retailer Sales Dashboard
 * **Description:** A comprehensive commercial sales dashboard analyzing multi-year retail performance, brand distribution, and operating margins across American regions.
